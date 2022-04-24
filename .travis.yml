@@ -19,3 +19,6 @@ after_success:
  - docker push akifboi/multi-nginx
  - docker push akifboi/multi-server
  - docker push akifboi/multi-worker
+
+
+ 
